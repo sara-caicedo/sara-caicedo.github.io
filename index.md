@@ -1,14 +1,11 @@
 ---
 layout: default
 ---
-
-Welcome! I am Sara, a master student at Universidad de los Andes, I hold a bachelors in economics from Universidad Nacional, both located in Bogotá. My reserach interest focuse on Economic History and Political Economy.
+# About me
+Welcome! I am Sara, a master's student at Universidad de los Andes, I hold my bachelor's degree in economics from Universidad Nacional de Colombia. My research interests focus on Economic History and Political Economy. Currently I work as Teaching Assistant at Uniandes at the Colombian Economic History course and the World Economic History course.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
