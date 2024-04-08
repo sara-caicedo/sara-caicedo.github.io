@@ -3,9 +3,10 @@ layout: default
 ---
 # Sara Caicedo-Silva
 # About me
-Welcome! I am Sara, a master's student at Universidad de los Andes, I hold my bachelor's degree in economics from Universidad Nacional de Colombia. My research interests focus on Economic History and Political Economy. Currently (2024-1) I work as Teaching Assistant at Uniandes at the Colombian Economic History course and the World Economic History course.
+Welcome! I am Sara, a master's student at Universidad de los Andes, I hold a bachelors in economics from Universidad Nacional de Colombia. My research interests focus on Economic History and Political Economy. Currently I work as Teaching Assistant at Uniandes for the Economic History courses.
 
 In this page you can find my publications as a young researcher and the resources I would have like to know about theoretical and empirical economics earlier in my bachelors. I also like scientific communication, so you can find my TikTok page with some videos about economics for the general public. Don't hesitate to contact me if you have any question about my work or the resources in this page.
+
 [Link to another page](./another-page.html).
 
 
