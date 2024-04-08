@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome! I am Sara, a master student at Universidad de los Andes, I hold a bachelors in economics from Universidad Nacional, both located in Bogotá. My reserach interest focuse on Economic History and Political Economy.
 
 [Link to another page](./another-page.html).
 
