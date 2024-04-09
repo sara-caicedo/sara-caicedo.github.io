@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Another page
+title: Resources
 description: This is just another page
 ---
 
-## Welcome to another page
+## Welcome to the resource page
 
 _yay_
 
