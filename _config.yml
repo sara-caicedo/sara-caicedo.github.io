@@ -4,4 +4,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 
-favicon: /assets/css/worm.png
+favicon: assets/css/worm.png
