@@ -1,121 +1,31 @@
----
-layout: default
----
-Welcome! I am Sara, a master's student at Universidad de los Andes, I hold a bachelors in economics from Universidad Nacional de Colombia. My research interests focus on Economic History and Political Economy. Currently I work as Teaching Assistant at Uniandes for the Economic History courses.
+# Sara Caicedo-Silva
 
-In this page you can find my publications as a young researcher, the resources I would have like to know about theoretical and empirical economics earlier in my bachelors and some videos about economics. Don't hesitate to contact me if you have any question about my work or the resources in this page.
+*SAH-rah kai-SEH-doh SEEL-vah*
 
-[Link to another page](./another-page.html).
+<div class="hero-card">
 
+  <div class="hero-text">
+    <p class="hero-greeting">¡Hola!</p>
 
-# Header 1
+    <p>
+      I am <strong>Sara Caicedo-Silva</strong>. I am interested in political
+      economy, economic history, and the use of machine learning, primarily
+      for extracting and processing text data.
+    </p>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+    <p>
+      I am a pre-doctoral Fellow at NYU with Pablo Querubín and
+      Universidad de los Andes with Mateo Uribe.
+    </p>
 
-## Header 2
+    <p>
+      I got my Master’s in Economics at Universidad de los Andes in 2026,
+      and I got my Bachelor’s in Economics at Universidad Nacional in 2023.
+    </p>
+  </div>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+  <div class="hero-image">
+    <img src="assets/profile.jpg" alt="Sara Caicedo-Silva">
+  </div>
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+</div>
