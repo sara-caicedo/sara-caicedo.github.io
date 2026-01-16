@@ -25,7 +25,7 @@
   </div>
 
   <div class="hero-image">
-    <img src="Team Updates.png" alt="Sara Caicedo-Silva">
+    <img src="assets/Team Updates.png" alt="Sara Caicedo-Silva">
   </div>
 
 </div>
